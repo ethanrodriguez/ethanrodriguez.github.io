@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 100,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 105,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introdution Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introdution Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -526,8 +526,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -586,13 +586,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -611,7 +611,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -626,10 +626,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -637,8 +639,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop<br>Adobe Illustrator<br>Adobe Premiere<br>Microsoft Word<br>Microsoft Powerpoint<br>Final Cut Pro<br>123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry Certified PS<br>Industry Certified AI<br>Industry Certified AP<br>Industry Certified AA<br>Industry Certified DW<br>Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate<br>AP Teacher<br>Community Member<br>Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\">Adobe Premiere<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr.Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -658,7 +660,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-album-cover-finished-2000x1000-800x400.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-album-cover-finished-2000x1000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -728,7 +730,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600-800x640.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -763,9 +775,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-128x42.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -773,8 +789,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         }
       ]
@@ -1115,8 +1131,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -1319,8 +1335,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -1475,8 +1491,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -1502,7 +1518,7 @@
       "settings": {
         "title": "Website Maker Title",
         "meta_descr": "Website Maker Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1631,8 +1647,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -1658,7 +1674,7 @@
       "settings": {
         "title": "Web Maker Title",
         "meta_descr": "Web Maker Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1787,8 +1803,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -1943,8 +1959,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2099,8 +2115,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2255,8 +2271,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2411,8 +2427,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2567,8 +2583,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2723,8 +2739,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -2879,8 +2895,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -3035,8 +3051,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -3191,8 +3207,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -3347,8 +3363,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
+          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -3547,7 +3563,8 @@
     "contact.html": {
       "settings": {
         "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 20
       },
       "components": [
         {
@@ -3644,7 +3661,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introdution Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introdution Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\">DiscussIT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_name": "footer1",
@@ -3719,6 +3736,56 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-2w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +1 305 986 1197<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "erodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }
