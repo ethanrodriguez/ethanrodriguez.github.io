@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 116,
+    "uniqCompNum": 118,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -652,16 +652,16 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-album-cover-finished-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-album-cover-finished-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-2-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-2-2000x2962.jpg",
                 "caption": "A Michael Jackson Album Cover",
                 "active": false
               },
@@ -670,8 +670,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-finished-king-kong-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-finished-king-kong-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-7-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-7-2000x2962.jpg",
                 "caption": "King Kong Situation&nbsp;",
                 "active": false
               },
@@ -680,9 +680,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-batman-logo-2000x1182-800x472.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-batman-logo-2000x1182.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-6-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-6-2000x2962.jpg",
+                "caption": "Batman Logo Recreation",
                 "active": false
               },
               {
@@ -690,9 +690,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brochure-template-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brochure-template-2000x1545.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-1-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-1.jpg",
+                "caption": "Aerospace Computer Engineer Brochure",
                 "active": false
               },
               {
@@ -700,9 +700,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-record-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-record-2000x2000.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-1-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-1.jpg",
+                "caption": "Michael Jackson Bad Record Recreation",
                 "active": false
               },
               {
@@ -712,7 +712,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-faces-finished-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-faces-finished-2000x2962.jpg",
-                "caption": "Type caption here",
+                "caption": "Faces Project with Different Emotions",
                 "active": false
               },
               {
@@ -720,25 +720,25 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/costume-party-finished-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/costume-party-finished-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-8-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-8-2000x2962.jpg",
+                "caption": "Halloween Face Mash",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-1-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-1.jpg",
+                "caption": "Flash Logo Recreation",
+                "active": false
               }
             ],
-            "spacing": 1,
+            "spacing": "2",
             "showText": true,
-            "filter": true,
+            "filter": false,
             "bgColor": "#1a1515",
             "filterBgColor": false,
             "fullWidth": false,
@@ -3905,8 +3905,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -3914,7 +3914,7 @@
             "showButtons": true
           },
           "title": "Ethan Rodriguez",
-          "text": "~~\"Be the change you wish to see in this world.\"~~",
+          "text": "~~\"Be the change you wish to see in this world.\"~~Gandhi",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
         },
         {
@@ -3944,16 +3944,16 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-record-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-record-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962.jpg",
                 "caption": "Michael Jackson Record Disk Recreation",
                 "active": false
               },
@@ -3962,18 +3962,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brochure-template-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brochure-template-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962.jpg",
                 "caption": "Aerospace Computer Engineer Brochure",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-perspective-piece-finished-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-perspective-piece-finished-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-4-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-4-2000x2962.jpg",
                 "caption": "Perspective Piece",
                 "active": false
               },
@@ -3982,13 +3982,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-flash-logo-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962.jpg",
                 "caption": "Flash Logo Recreation",
-                "active": true
+                "active": false
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": true,
             "filter": false,
             "bgColor": "#cccccc",
