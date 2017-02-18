@@ -535,6 +535,11 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -548,12 +553,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
@@ -667,6 +667,13 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3d",
           "_params": {
             "paddingTop": 3,
@@ -690,14 +697,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "text": "",
-          "title": "Adobe Photoshop Gallery",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "48px",
-              "color": "#ffffff"
-            }
-          }
+          "title": "Adobe Photoshop Gallery"
         },
         {
           "_inherit": "gallery1",
@@ -857,6 +857,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -870,12 +875,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
@@ -1119,6 +1119,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -1132,12 +1137,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_tags": [
@@ -1296,6 +1296,11 @@
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-15",
           "_params": {
             "paddingTop": 2,
@@ -1309,12 +1314,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_tags": [
@@ -4226,6 +4226,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -4239,12 +4244,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     }
