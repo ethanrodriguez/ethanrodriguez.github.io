@@ -511,7 +511,7 @@ h6,
   text-align: center;
 }
 #footer1-2 P {
-  color: #232323;
+  color: #efefef;
 }
 
 #menu-2x .hide-buttons .nav-btn {
@@ -1842,6 +1842,9 @@ h6,
 #menu-2n .close-icon::after {
   background-color: #ffffff;
 }
+#footer1-2p P {
+  color: #efefef;
+}
 #form1-2r .form-control-label {
   color: #232323;
 }
@@ -1919,5 +1922,92 @@ h6,
   text-align: center;
 }
 #footer1-2 P {
-  color: #232323;
+  color: #efefef;
+}
+
+#menu-44 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-44 .navbar-caption {
+  color: #ffffff;
+}
+#menu-44 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-44 .link,
+#menu-44 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-44 .link {
+  font-size: 0.75rem;
+}
+#menu-44 .dropdown-item,
+#menu-44 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-44 .link:hover,
+#menu-44 .dropdown-item:hover,
+#menu-44 .link:focus,
+#menu-44 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-44 .link[aria-expanded="true"],
+#menu-44 .dropdown-menu {
+  background: #000000;
+}
+#menu-44 .nav-dropdown-sm .link:focus,
+#menu-44 .nav-dropdown-sm .link:hover,
+#menu-44 .nav-dropdown-sm .dropdown-item:focus,
+#menu-44 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-44 .navbar,
+#menu-44 .nav-dropdown-sm,
+#menu-44 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-44 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-44 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-44 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-44 .bg-color.transparent.opened .link:hover,
+#menu-44 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-44 .link[aria-expanded="true"],
+#menu-44 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-44.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-44 .close-icon::before,
+#menu-44 .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-48 .mbr-section-title,
+#header3-48 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4i .mbr-section-title,
+#header3-4i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4i H3 {
+  color: #cccccc;
+}
+#social-buttons4-4f .mbr-section-title,
+#social-buttons4-4f .btn-social {
+  color: #fff;
+}
+#footer1-4b P {
+  color: #efefef;
 }
