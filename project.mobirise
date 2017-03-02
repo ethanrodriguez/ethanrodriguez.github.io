@@ -29,7 +29,7 @@
   "pages": {
     "photoshop.html": {
       "settings": {
-        "title": "Adobe Photoshop",
+        "title": "Ethan Rodriguez",
         "order": 3
       },
       "components": [
@@ -42,10 +42,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -68,7 +68,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -88,7 +88,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_tags": [
@@ -104,7 +104,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -141,17 +141,17 @@
             "H3": {
               "text-align": "center",
               "font-size": "48px",
-              "color": "#ffffff"
+              "color": "#313030"
             }
           },
           "_anchor": "msg-box1-3d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -167,7 +167,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "text": "",
-          "title": "Adobe Photoshop Gallery"
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adobe Photoshop Gallery"
         },
         {
           "_inherit": "gallery1",
@@ -260,38 +260,115 @@
                 "active": false
               }
             ],
-            "spacing": "2",
+            "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": false
           },
           "_anchor": "gallery4-t",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#c1c1c1"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-37",
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#313030"
+            },
+            "LI": {
+              "color": "#313030"
+            },
+            ".list-group-text": {
+              "color": "#313030"
+            },
+            "STRONG": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
+            }
+          },
+          "_anchor": "contacts3-4x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: 305 986 1197<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-black\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-265x88.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text4": "erodriguez@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li>Business</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
             "title": "MESSAGE",
             "action": "erodriguez@miamiartsstudio.com",
@@ -320,7 +397,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -339,7 +416,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -351,7 +428,7 @@
     },
     "illustrator.html": {
       "settings": {
-        "title": "Adobe Illustrator",
+        "title": "Ethan Rodriguez",
         "order": 4
       },
       "components": [
@@ -663,8 +740,8 @@
     },
     "premiere.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 5
       },
       "components": [
@@ -838,7 +915,7 @@
     },
     "word.html": {
       "settings": {
-        "title": "Web Generator Title",
+        "title": "Ethan Rodriguez",
         "meta_descr": "Web Generator Description",
         "order": 6
       },
@@ -1535,7 +1612,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1561,7 +1638,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1606,7 +1683,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2088,7 +2165,7 @@
       "settings": {
         "title": "Web Site Creator Title",
         "meta_descr": "Web Site Creator Description",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -2244,7 +2321,7 @@
       "settings": {
         "title": "Website Generator Title",
         "meta_descr": "Website Generator Description",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -2400,7 +2477,7 @@
       "settings": {
         "title": "Web Page Maker Title",
         "meta_descr": "Web Page Maker Description",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -2556,7 +2633,7 @@
       "settings": {
         "title": "Web Site Builder Title",
         "meta_descr": "Web Site Builder Description",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -2712,7 +2789,7 @@
       "settings": {
         "title": "Web Site Creator Title",
         "meta_descr": "Web Site Creator Description",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -2868,7 +2945,7 @@
       "settings": {
         "title": "Web Creator Title",
         "meta_descr": "Web Creator Description",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -2939,7 +3016,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2965,7 +3042,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -3010,187 +3087,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
-        }
-      ]
-    },
-    "Intro PIC.html": {
-      "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
-        "order": 21
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-2j",
-          "_params": {
-            "bgColor": "#000000",
-            "fontSize": "0.75",
-            "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-384x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2l",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-2m",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1749.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -3198,7 +3101,7 @@
       "settings": {
         "title": "Website Maker Title",
         "meta_descr": "Website Maker Description",
-        "order": 22
+        "order": 20
       },
       "components": [
         {
@@ -3430,7 +3333,7 @@
     },
     "index 1.html": {
       "settings": {
-        "title": "",
+        "title": "Ethan Rodriguez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3447,10 +3350,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -3473,7 +3376,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3493,7 +3396,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_name": "menu",
@@ -3506,7 +3409,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -3518,7 +3421,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3532,7 +3435,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -3542,15 +3445,19 @@
           "_styles": {
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#313030"
+            },
+            ".mbr-section-text": {
+              "color": "#313030"
             }
           },
           "_anchor": "header2-4m",
           "_params": {
-            "imageSize": "42",
+            "imageSize": "47",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3558,8 +3465,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -3570,7 +3477,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fullsizerender-2-1400x1150.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3590,7 +3497,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>Oh Hey There..</i></span>",
           "text": "My name is Ethan Rodriguez and I am a magnet student at Miami Arts Studio Zelda Glazer &nbsp;middle and high school. I am in the Technology Production magnet. &nbsp;Since I was 4 years old, i've always &nbsp;been fascinated in art. I've always produced my creative values into a piece of paper.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-e\" data-toolbar=\"-mbrBtnMove\">CONTINUED...</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-e\" data-toolbar=\"-mbrBtnMove\">CONTINUED...</a>"
         },
         {
           "_inherit": "features4",
@@ -3602,23 +3509,29 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#5c5858",
+              "border-color": "#5c5858"
             },
             "B": {
               "font-size": "20px"
+            },
+            "P": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
             }
           },
           "_name": "features7",
           "_anchor": "features7-4n",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
+            "iconsBgColor": "#5c5858",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3643,7 +3556,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#000000"
             }
           },
           "title1": "<br>Become Proffesional Animator",
@@ -3652,13 +3565,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "edit",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#000000"
             }
           },
           "title2": "<br>Illustrator",
@@ -3674,7 +3588,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff"
+              "color": "#000000"
             }
           },
           "title3": "<br>Creative Writer",
@@ -3683,13 +3597,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "linegraph",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#000000"
             }
           },
           "title4": "",
@@ -3733,8 +3648,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#c0a375",
-              "border-color": "#c0a375"
+              "background-color": "#5c5858",
+              "border-color": "#5c5858"
+            },
+            "P": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
             }
           },
           "_tags": [
@@ -3743,13 +3664,13 @@
           "_name": "features4",
           "_anchor": "features4-4o",
           "_params": {
-            "iconsBgColor": "#c0a375",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "iconsBgColor": "#5c5858",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3774,7 +3695,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "title1": "Complete Adobe Suite",
@@ -3790,7 +3711,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "title2": "<p>&nbsp; &nbsp; Learn 3D Animation<br></p>",
@@ -3806,7 +3727,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "title3": "<p>Art Institutes</p>",
@@ -3863,6 +3784,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#313030"
             }
           },
           "_tags": [
@@ -3871,9 +3795,9 @@
           "_name": "header3",
           "_anchor": "header3-4p",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef",
+            "bgColor": "#6e6d6d",
             "showMeta": true
           },
           "title": "Biography",
@@ -3886,14 +3810,15 @@
           "_name": "content7",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#313030"
             }
           },
           "_anchor": "content7-4q",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#6e6d6d"
           },
           "text1": "&nbsp;<p>As of now I am a magnet student at MAS Zelda Glazer Middle School enrolled vin the tech production magnet. Throughout the past two years I have gained much knowledge on tools that I was never introduced too. Photoshop is one of the most usefull subjects i've learned. For as long as I can remember I have always expressed my creative thoughts into art and writing. It all started when I was about 4 years old.</p><p> </p><p><br></p>",
           "text2": "<p><br></p><p>I would always see cartoons on the t.v. and gaze in amazement. I would alwasy wonder, \"How'd they do that?\" I would then draw figures in my own view. Since then i've always loved to draw and illustrate. Fast foward and I still want to pursure my career, but, on a more technical side. I want to become an animator for Disney or a video game company called Naughty Dog.</p>",
@@ -3903,15 +3828,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-4r",
+          "_name": "contacts3",
+          "_anchor": "contacts3-4x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d3b3b",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3919,35 +3844,123 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-265x88.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>Miami",
-          "text2": "<strong>Contacts</strong><br>\nEmail: erodriguez@miamiartsstudio.com<br>\nPhone: +305 986 1197<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#000000"
+            }
+          },
+          "text4": "erodriguez@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li>Business</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "erodriguez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#313030"
+            },
+            "LI": {
+              "color": "#313030"
+            },
+            ".list-group-text": {
+              "color": "#313030"
+            },
+            "STRONG": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
+            }
+          }
         },
         {
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#313030"
             }
           },
           "_anchor": "footer1-4s",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3960,7 +3973,7 @@
     "landingpage.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Ethan Rodriguez",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -3977,10 +3990,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -4003,7 +4016,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4023,7 +4036,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_name": "menu",
@@ -4036,7 +4049,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -4048,7 +4061,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-signature-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4062,7 +4075,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Signature</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"false\">Adobe Premiere<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Ethan Rodriguez Discuss IT Topic 6 2217.docx\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ethanrodriguez.github.io/documents/Ethan Rodriguez Discuss IT Topic 6 2217.pdf\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\" aria-expanded=\"false\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"final cut pro.html\" aria-expanded=\"false\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ps.html\">Industry Certified PS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ai.html\">Industry Certified AI<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified ap.html\">Industry Certified AP<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified aa.html\">Industry Certified AA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certified dw.html\">Industry Certified DW<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pate.html\">Mr. Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apteacher.html\">AP Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"communitymember.html\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"familyfriend.html\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -4104,7 +4117,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -4113,7 +4126,15 @@
           },
           "title": "Ethan Rodriguez",
           "text": "~~\"Be the change you wish to see in this world.\"~~Gandhi",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-section-lead": {
+              "color": "#7c7c7c"
+            }
+          }
         },
         {
           "_styles": {
@@ -4132,7 +4153,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "showMeta": true
           },
           "title": "A Glimpse Of My Work",
@@ -4154,7 +4175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-124.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-115.jpg",
                 "caption": "Michael Jackson Record Disk Recreation",
                 "active": false
               },
@@ -4164,7 +4185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-116.jpg",
                 "caption": "Aerospace Computer Engineer Brochure",
                 "active": true
               },
@@ -4184,7 +4205,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-126.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-117.jpg",
                 "caption": "Flash Logo Recreation",
                 "active": false
               }
@@ -4192,7 +4213,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -4206,6 +4227,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#313030"
             }
           },
           "_tags": [
@@ -4219,14 +4243,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC2Hy1kIXnYL42yVCEgIzlBw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC2Hy1kIXnYL42yVCEgIzlBw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>       "
         },
         {
           "_tags": [
@@ -4235,12 +4259,12 @@
           "_name": "contacts3",
           "_anchor": "contacts3-4x",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4248,10 +4272,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-265x88.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -4289,9 +4317,9 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "erodriguez@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text5": "<li>Business</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
           "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
             "title": "MESSAGE",
@@ -4321,23 +4349,40 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#313030"
+            },
+            "LI": {
+              "color": "#313030"
+            },
+            ".list-group-text": {
+              "color": "#313030"
+            },
+            "STRONG": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
+            }
+          }
         },
         {
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#313030"
             }
           },
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#6e6d6d",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
