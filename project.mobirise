@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 178,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -175,6 +175,11 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#c1c1c1"
+            }
+          },
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -270,12 +275,7 @@
           },
           "_anchor": "gallery4-t",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#c1c1c1"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -3446,7 +3446,7 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#313030"
+              "color": "#efefef"
             },
             ".mbr-section-text": {
               "color": "#313030"
@@ -3556,7 +3556,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title1": "<br>Become Proffesional Animator",
@@ -3572,7 +3572,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title2": "<br>Illustrator",
@@ -3588,7 +3588,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title3": "<br>Creative Writer",
@@ -3604,7 +3604,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title4": "",
@@ -3695,7 +3695,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title1": "Complete Adobe Suite",
@@ -3711,7 +3711,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title2": "<p>&nbsp; &nbsp; Learn 3D Animation<br></p>",
@@ -3727,7 +3727,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#000000"
+              "color": "#efefef"
             }
           },
           "title3": "<p>Art Institutes</p>",
@@ -3829,6 +3829,23 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#313030"
+            },
+            "LI": {
+              "color": "#313030"
+            },
+            ".list-group-text": {
+              "color": "#313030"
+            },
+            "STRONG": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
+            }
+          },
           "_anchor": "contacts3-4x",
           "_params": {
             "paddingTop": "1",
@@ -3927,24 +3944,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "color": "#313030"
-            },
-            "LI": {
-              "color": "#313030"
-            },
-            ".list-group-text": {
-              "color": "#313030"
-            },
-            "STRONG": {
-              "color": "#313030"
-            },
-            "H4": {
-              "color": "#313030"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_name": "footer1",
@@ -4102,6 +4102,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7c7c7c"
+            },
+            ".mbr-section-lead": {
+              "color": "#7c7c7c"
+            }
+          },
           "_anchor": "header1-4t",
           "_params": {
             "parallax": true,
@@ -4126,15 +4134,7 @@
           },
           "title": "Ethan Rodriguez",
           "text": "~~\"Be the change you wish to see in this world.\"~~Gandhi",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#7c7c7c"
-            },
-            ".mbr-section-lead": {
-              "color": "#7c7c7c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
         },
         {
           "_styles": {
@@ -4175,7 +4175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-10.jpg",
                 "caption": "Michael Jackson Record Disk Recreation",
                 "active": false
               },
@@ -4185,7 +4185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-11.jpg",
                 "caption": "Aerospace Computer Engineer Brochure",
                 "active": true
               },
@@ -4205,7 +4205,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-117.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-12.jpg",
                 "caption": "Flash Logo Recreation",
                 "active": false
               }
@@ -4257,6 +4257,23 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#313030"
+            },
+            "LI": {
+              "color": "#313030"
+            },
+            ".list-group-text": {
+              "color": "#313030"
+            },
+            "STRONG": {
+              "color": "#313030"
+            },
+            "H4": {
+              "color": "#313030"
+            }
+          },
           "_anchor": "contacts3-4x",
           "_params": {
             "paddingTop": "1",
@@ -4349,24 +4366,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "color": "#313030"
-            },
-            "LI": {
-              "color": "#313030"
-            },
-            ".list-group-text": {
-              "color": "#313030"
-            },
-            "STRONG": {
-              "color": "#313030"
-            },
-            "H4": {
-              "color": "#313030"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_name": "footer1",
