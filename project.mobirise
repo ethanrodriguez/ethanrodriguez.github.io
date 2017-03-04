@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index 1.html",
+    "currentPage": "landingpage.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -4175,7 +4175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-16.jpg",
                 "caption": "Michael Jackson Record Disk Recreation",
                 "active": false
               },
@@ -4185,7 +4185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-17.jpg",
                 "caption": "Aerospace Computer Engineer Brochure",
                 "active": true
               },
@@ -4205,7 +4205,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-18.jpg",
                 "caption": "Flash Logo Recreation",
                 "active": false
               }
