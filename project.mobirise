@@ -119,7 +119,7 @@
               "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "index 1.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -916,7 +916,7 @@
     "word.html": {
       "settings": {
         "title": "Ethan Rodriguez",
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "",
         "order": 6
       },
       "components": [
@@ -1071,8 +1071,8 @@
     },
     "powerpoint.html": {
       "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 7
       },
       "components": [
@@ -1227,8 +1227,8 @@
     },
     "final cut pro.html": {
       "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 9
       },
       "components": [
@@ -1383,8 +1383,8 @@
     },
     "123d.html": {
       "settings": {
-        "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 8
       },
       "components": [
@@ -1539,8 +1539,8 @@
     },
     "certified ps.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 10
       },
       "components": [
@@ -1553,10 +1553,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -1579,7 +1579,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1599,7 +1599,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_name": "menu",
@@ -1695,8 +1695,8 @@
     },
     "certified ai.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 11
       },
       "components": [
@@ -1851,8 +1851,8 @@
     },
     "certified aa.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 12
       },
       "components": [
@@ -2007,8 +2007,8 @@
     },
     "certified ap.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 13
       },
       "components": [
@@ -2163,8 +2163,8 @@
     },
     "certified dw.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 14
       },
       "components": [
@@ -2319,8 +2319,8 @@
     },
     "transcript.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 15
       },
       "components": [
@@ -2475,8 +2475,8 @@
     },
     "pate.html": {
       "settings": {
-        "title": "Web Page Maker Title",
-        "meta_descr": "Web Page Maker Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 16
       },
       "components": [
@@ -2631,8 +2631,8 @@
     },
     "communitymember.html": {
       "settings": {
-        "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 17
       },
       "components": [
@@ -2787,8 +2787,8 @@
     },
     "apteacher.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 18
       },
       "components": [
@@ -2943,8 +2943,8 @@
     },
     "familyfriend.html": {
       "settings": {
-        "title": "Web Creator Title",
-        "meta_descr": "Web Creator Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 19
       },
       "components": [
@@ -2957,10 +2957,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -2983,7 +2983,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3003,7 +3003,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c1c1c1"
             }
           },
           "_name": "menu",
@@ -3099,8 +3099,8 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description",
+        "title": "Ethan Rodriguez",
+        "meta_descr": "",
         "order": 20
       },
       "components": [
@@ -3424,7 +3424,7 @@
               "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "index 1.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4064,7 +4064,7 @@
               "src": "@PROJECT_PATH@/assets/images/ethan-rodriguez-6-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "index 1.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -4175,7 +4175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-3-2000x2962-118.jpg",
                 "caption": "Michael Jackson Record Disk Recreation",
                 "active": false
               },
@@ -4185,7 +4185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-5-2000x2962-119.jpg",
                 "caption": "Aerospace Computer Engineer Brochure",
                 "active": true
               },
@@ -4205,7 +4205,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise-photoshop-gallery-1-2000x2962-120.jpg",
                 "caption": "Flash Logo Recreation",
                 "active": false
               }
