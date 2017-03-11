@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 180,
+    "uniqCompNum": 182,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -358,6 +358,149 @@
             "showBullets": true
           },
           "_anchor": "gallery3-4z",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-50",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#6e6d6d",
+            "showMeta": true
+          },
+          "title": "~~Masterpiece Reproduction Progress Adobe Photoshop~~",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-4-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-5-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-6-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-7-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-8-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-9-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ethan-rodriguez-girl-with-the-pearl-earring-10-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#6e6d6d",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-51",
           "articleLayout": false,
           "allItem": "All"
         },

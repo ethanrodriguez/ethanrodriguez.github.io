@@ -494,6 +494,10 @@ h6,
 #header3-4y .mbr-section-subtitle {
   text-align: center;
 }
+#header3-50 .mbr-section-title,
+#header3-50 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts3-4x P {
   color: #313030;
 }
