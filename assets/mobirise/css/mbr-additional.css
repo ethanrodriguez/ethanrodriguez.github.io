@@ -490,14 +490,6 @@ h6,
 #gallery4-t .mbr-gallery-item > div > span {
   color: #c1c1c1;
 }
-#header3-4y .mbr-section-title,
-#header3-4y .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-50 .mbr-section-title,
-#header3-50 .mbr-section-subtitle {
-  text-align: center;
-}
 #contacts3-4x P {
   color: #313030;
 }
@@ -512,6 +504,10 @@ h6,
 }
 #contacts3-4x H4 {
   color: #313030;
+}
+#header3-4z .mbr-section-title,
+#header3-4z .mbr-section-subtitle {
+  text-align: center;
 }
 #footer1-2 P {
   color: #232323;
