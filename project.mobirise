@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -4595,39 +4595,59 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#7c7c7c"
-            },
-            ".mbr-section-lead": {
-              "color": "#7c7c7c"
-            }
-          },
-          "_anchor": "header1-4t",
+          "_anchor": "header1-56",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1484807352052-23338990c6c6-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/F3impinyES0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.5",
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "Ethan Rodriguez",
-          "text": "~~\"Be the change you wish to see in this world.\"~~Gandhi",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
+          "title": "Ethan Rodriguez<br>",
+          "text": "~~\"Be the change you wish to see in this world.\"~~Ghandi",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#313030"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-4w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#6e6d6d",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME...",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC2Hy1kIXnYL42yVCEgIzlBw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>       "
         },
         {
           "_styles": {
@@ -4635,7 +4655,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#cccccc"
+              "color": "#313030"
             }
           },
           "_tags": [
@@ -4714,36 +4734,6 @@
           "_anchor": "gallery2-4v",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#313030"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-4w",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#6e6d6d",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC2Hy1kIXnYL42yVCEgIzlBw/featured\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>       "
         },
         {
           "_tags": [
