@@ -4617,7 +4617,7 @@
           },
           "title": "Ethan Rodriguez<br>",
           "text": "~~\"Be the change you wish to see in this world.\"~~Ghandi",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index 1.html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=ITt35-Xyz48\" data-toolbar=\"-mbrBtnMove\">Watch My Story...</a> "
         },
         {
           "_inherit": "social-buttons2",
