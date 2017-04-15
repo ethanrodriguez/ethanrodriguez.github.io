@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 188,
+    "uniqCompNum": 189,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -3978,7 +3978,7 @@
           },
           "title": "Ethan Rodriguez<br>",
           "text": "~~\"Be the change you wish to see in this world.\"~~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index .html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=ITt35-Xyz48\" data-toolbar=\"-mbrBtnMove\">Check Out My Film ...</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index .html\" data-toolbar=\"-mbrBtnMove\">Enter...</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=ITt35-Xyz48\" data-toolbar=\"-mbrBtnMove\">Check Out My Film ...</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=2FwO04ObWgw\" data-toolbar=\"-mbrBtnMove\">See my Imagine Dragons Video...</a>"
         },
         {
           "_inherit": "social-buttons2",
