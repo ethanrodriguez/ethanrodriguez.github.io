@@ -2013,3 +2013,102 @@ h6,
 #footer1-4s P {
   color: #313030;
 }
+
+#menu-5e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5e .navbar-caption {
+  color: #ffffff;
+}
+#menu-5e .navbar-toggler {
+  color: #c1c1c1;
+}
+#menu-5e .link,
+#menu-5e .dropdown-item {
+  color: #c1c1c1;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-5e .link {
+  font-size: 0.75rem;
+}
+#menu-5e .dropdown-item,
+#menu-5e .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-5e .link:hover,
+#menu-5e .dropdown-item:hover,
+#menu-5e .link:focus,
+#menu-5e .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-5e .link[aria-expanded="true"],
+#menu-5e .dropdown-menu {
+  background: #000000;
+}
+#menu-5e .nav-dropdown-sm .link:focus,
+#menu-5e .nav-dropdown-sm .link:hover,
+#menu-5e .nav-dropdown-sm .dropdown-item:focus,
+#menu-5e .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-5e .navbar,
+#menu-5e .nav-dropdown-sm,
+#menu-5e .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5e .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-5e .bg-color.transparent .link {
+  color: #c1c1c1;
+  transition: none;
+}
+#menu-5e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5e .bg-color.transparent.opened .link:hover,
+#menu-5e .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-5e .link[aria-expanded="true"],
+#menu-5e .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-5e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-5e .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-5e .close-icon::before,
+#menu-5e .close-icon::after {
+  background-color: #c1c1c1;
+}
+#msg-box1-5f H3 {
+  text-align: center;
+  font-size: 48px;
+  color: #313030;
+}
+#gallery4-5g .mbr-gallery-item > div > span {
+  color: #c1c1c1;
+}
+#contacts3-5h P {
+  color: #313030;
+}
+#contacts3-5h LI {
+  color: #313030;
+}
+#contacts3-5h .list-group-text {
+  color: #313030;
+}
+#contacts3-5h STRONG {
+  color: #313030;
+}
+#contacts3-5h H4 {
+  color: #313030;
+}
+#header3-5i .mbr-section-title,
+#header3-5i .mbr-section-subtitle {
+  text-align: center;
+}
+#footer1-5j P {
+  color: #232323;
+}
